@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1581367042 source:c:\users\ansel\desktop\solitaireprime(new)\src\card.cpp
+	"Card.h"
+	<iostream>
+
+1581280359 c:\users\ansel\desktop\solitaireprime(new)\include\card.h
+
+1581365346 source:c:\users\ansel\desktop\solitaireprime(new)\main.cpp
+	"Card.h"
+	"Deck.h"
+	"StringPractice.h"
+	<iostream>
+
+1581209290 c:\users\ansel\desktop\solitaireprime(new)\card.h
+
+1581364342 c:\users\ansel\desktop\solitaireprime(new)\stringpractice.h
+	<string>
+
+1581366998 source:c:\users\ansel\desktop\solitaireprime(new)\src\deck.cpp
+	"Deck.h"
+	"Card.h"
+	<iostream>
+
+1581365241 c:\users\ansel\desktop\solitaireprime(new)\include\deck.h
+	"Card.h"
+
